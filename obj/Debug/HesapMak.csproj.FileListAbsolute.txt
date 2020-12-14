@@ -1,0 +1,11 @@
+C:\Users\canturk.atas\source\repos\HesapMak\bin\Debug\HesapMak.exe.config
+C:\Users\canturk.atas\source\repos\HesapMak\bin\Debug\HesapMak.exe
+C:\Users\canturk.atas\source\repos\HesapMak\bin\Debug\HesapMak.pdb
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.csprojAssemblyReference.cache
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.Form1.resources
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.Properties.Resources.resources
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.csproj.GenerateResource.cache
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.csproj.CoreCompileInputs.cache
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.exe
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.pdb
+C:\Users\canturk.atas\source\repos\HesapMak\obj\Debug\HesapMak.KullanıcıGirisi.resources
